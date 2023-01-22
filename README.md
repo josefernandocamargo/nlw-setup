@@ -35,6 +35,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app com objetivo de controlar os hábitos.
 
+- [Visite o projeto online] (https://josefernandocamargo.github.io/nlw-setup)
+
 
 ## 🔖 Layout
 
